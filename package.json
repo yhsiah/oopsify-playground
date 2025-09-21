@@ -1,14 +1,8 @@
 {
   "name": "oopsify-playground",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "type": "module",
+  "description": "For research into test data generation and oopsify utilisation",
   "dependencies": {
     "@faker-js/faker": "^9.9.0",
     "chance": "^1.1.13",
